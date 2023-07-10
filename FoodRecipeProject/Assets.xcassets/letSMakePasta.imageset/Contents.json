@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "idiom" : "universal",
+      "filename" : "letSMakePasta.png",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "filename" : "letSMakePasta@2x.png",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "letSMakePasta@3x.png",
+      "scale" : "3x",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
